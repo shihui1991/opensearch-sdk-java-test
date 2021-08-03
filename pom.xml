@@ -57,7 +57,8 @@
         <repository>
             <id>tbmirror-snapshots</id>
             <name>taobao mirror snapshots</name>
-            <url>http://mvnrepo.alibaba-inc.com/mvn/repository</url>
+<!--            <url>http://mvnrepo.alibaba-inc.com/mvn/repository</url>-->
+            <url>http://mvnrepo.alibaba-inc.com/nexus/content/groups/public</url>
             <layout>default</layout>
             <releases>
                 <enabled>true</enabled>
